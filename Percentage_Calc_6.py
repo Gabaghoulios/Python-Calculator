@@ -1,10 +1,3 @@
-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 import re
 
 def count_data(input_string):
